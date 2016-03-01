@@ -23,14 +23,9 @@ The shortcode to use is `[feedback_prompt]`.
 
 `[feedback_prompt]`
 
-
-
-
-![image](http://f.cl.ly/items/212e2P0m3g39292p271y/Font-Awesome-TinyMCE-plugin.jpg) 
-
 __Contributors Welcome__
 
-*   Submit a [pull request on Github](https://github.com/rachelbaker/Font-Awesome-WordPress-Plugin)
+*   Submit a [pull request on Github](https://github.com/sailensd1/WP-article-feedback)
 
 __Author__
 

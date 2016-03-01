@@ -200,7 +200,7 @@ class Articlefeedback {
 	public function submenu_page() {
 		?>
 		<div class="wrap">
-			<h2>Article FeedbackSettings</h2>
+			<h2>Article Feedback Settings</h2>
 			<form method="POST" action="options.php">
 			<?php settings_fields('feedback_options'); ?>
 			<?php
